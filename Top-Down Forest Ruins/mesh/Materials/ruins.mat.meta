@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9e7936aeddde4464c9cbd73da7d6d72e
+timeCreated: 1473618615
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74524
+  packageName: Top-Down Forest Ruins
+  packageVersion: 1.0
+  assetPath: Assets/Top-Down Forest Ruins/mesh/Materials/ruins.mat
+  uploadId: 146838

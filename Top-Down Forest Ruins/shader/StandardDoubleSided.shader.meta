@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e2692a2b6d1756848b332478a4f48e5a
+timeCreated: 1473618931
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74524
+  packageName: Top-Down Forest Ruins
+  packageVersion: 1.0
+  assetPath: Assets/Top-Down Forest Ruins/shader/StandardDoubleSided.shader
+  uploadId: 146838

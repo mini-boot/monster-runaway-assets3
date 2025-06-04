@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ccab38cda1f195469f889c1f8e558f7
+timeCreated: 1473619884
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74524
+  packageName: Top-Down Forest Ruins
+  packageVersion: 1.0
+  assetPath: Assets/Top-Down Forest Ruins/prefab/nature/dead_tree_03.prefab
+  uploadId: 146838

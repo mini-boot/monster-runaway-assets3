@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 73f6102afc345484bbf722a3416bf0f0
+timeCreated: 1473620764
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74524
+  packageName: Top-Down Forest Ruins
+  packageVersion: 1.0
+  assetPath: Assets/Top-Down Forest Ruins/prefab/ruins/wall_elem_03.prefab
+  uploadId: 146838

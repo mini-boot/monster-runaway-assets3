@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b8034fd04f95980459cab8a1f622d3e9
+timeCreated: 1479364172
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74524
+  packageName: Top-Down Forest Ruins
+  packageVersion: 1.0
+  assetPath: Assets/Top-Down Forest Ruins/mesh/nature/Materials/tree_diffuse.mat
+  uploadId: 146838

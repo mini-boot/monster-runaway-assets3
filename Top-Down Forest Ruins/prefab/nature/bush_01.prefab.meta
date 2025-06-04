@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb1502ced342549489dde7295bb8c847
+timeCreated: 1473620017
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74524
+  packageName: Top-Down Forest Ruins
+  packageVersion: 1.0
+  assetPath: Assets/Top-Down Forest Ruins/prefab/nature/bush_01.prefab
+  uploadId: 146838

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 590c733fcd9adbc4ba1354a3c466410d
+timeCreated: 1473620235
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74524
+  packageName: Top-Down Forest Ruins
+  packageVersion: 1.0
+  assetPath: Assets/Top-Down Forest Ruins/prefab/nature/mushroom_01.prefab
+  uploadId: 146838

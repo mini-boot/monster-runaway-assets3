@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 81d7f0dfd3e157c4c9509a96a8648214
+timeCreated: 1473620903
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74524
+  packageName: Top-Down Forest Ruins
+  packageVersion: 1.0
+  assetPath: Assets/Top-Down Forest Ruins/prefab/ruins/brick_wall_01.prefab
+  uploadId: 146838

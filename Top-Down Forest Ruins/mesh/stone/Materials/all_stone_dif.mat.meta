@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9c7929976c2bddc4c92685591be81490
+timeCreated: 1479364176
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74524
+  packageName: Top-Down Forest Ruins
+  packageVersion: 1.0
+  assetPath: Assets/Top-Down Forest Ruins/mesh/stone/Materials/all_stone_dif.mat
+  uploadId: 146838

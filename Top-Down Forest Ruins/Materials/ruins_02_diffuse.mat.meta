@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c83c5d05878d9e4c9748518ec643a9b
+timeCreated: 1473880625
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74524
+  packageName: Top-Down Forest Ruins
+  packageVersion: 1.0
+  assetPath: Assets/Top-Down Forest Ruins/Materials/ruins_02_diffuse.mat
+  uploadId: 146838

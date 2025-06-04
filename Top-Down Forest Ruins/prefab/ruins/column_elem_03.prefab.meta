@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f137ad61591cbd645b5b1d23fbd53ff8
+timeCreated: 1473620597
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74524
+  packageName: Top-Down Forest Ruins
+  packageVersion: 1.0
+  assetPath: Assets/Top-Down Forest Ruins/prefab/ruins/column_elem_03.prefab
+  uploadId: 146838
