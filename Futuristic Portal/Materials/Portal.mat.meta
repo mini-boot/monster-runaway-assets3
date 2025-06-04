@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3a05d0434abe9c4d96429e44d016617
+timeCreated: 1491911200
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87991
+  packageName: Futuristic Portal
+  packageVersion: 1.0
+  assetPath: Assets/Futuristic Portal/Materials/Portal.mat
+  uploadId: 174433
